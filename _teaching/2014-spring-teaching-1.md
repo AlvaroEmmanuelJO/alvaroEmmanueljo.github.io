@@ -1,10 +1,10 @@
 ---
-title: "3D Model - CAD Design - Product Develpment - Prototyped"
+title: "3D Model,CAD Design,Product Develpment,Prototyped"
 collection: 
 type: "$12 USD/Hour"
 permalink: /teaching/2014-spring-teaching-1
 venue: "3 Years of Experience, CSWP"
-date: 
+date: 2022-07-1
 location: "Online"
 ---
 
