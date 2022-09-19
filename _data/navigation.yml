@@ -20,9 +20,11 @@ main:
     
   #- title: "Guide"
   # url: /markdown/
-
-  - title: "FREELANCE"
+- title: "Social Service"
     url:  /teaching/
+
+  #- title: "FREELANCE"
+  #url:  /teaching/
     
   #- title: "Guide"
   # url: /markdown/
