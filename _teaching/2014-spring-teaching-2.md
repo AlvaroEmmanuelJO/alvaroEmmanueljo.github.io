@@ -1,24 +1,15 @@
 ---
-title: "3D Model,CAD Design,Product Develpment,Prototyped"
-collection: 
-type: "$12 USD/Hour"
-permalink: /teaching/2014-spring-teaching-1
-venue: "3 Years of Experience, CSWP"
-date: 2022-07-1
-location: "Online"
+title: "TECHO"
+collection: "Social Service"
+type: "Tec de Monterrey"
+permalink: /teaching/2022-spring-teaching-2
+venue: "2019"
+date: 2019-09-00
+location: "Guadalajara, Mexico"
 ---
 
-Hi, my name is Alvaro! A Mechatronic Engineer and 3D Modeller with more than 3 years experience in Engineering. Specially in the Robotics, Solar Energy installations, automated and Agriculture machine industry. I love Design in some of projects includes Engineering, simple building, furnitures, FEA analisys, render models, dynamic simulations, graphic design, etc. I am very motivated and I will be pleased to work with you, I will do my best to give you a service of quality which fit your needs.
+Urgency moves us, and to overcome the situation of poverty, we develop projects that improve the habitat and habitability conditions of families, in pursuit of a better quality of life and capacity building.
 
- Let´s go to work! 
+Design areas for a vulnerable situation families.
 
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<img src='/images/TECHO.gif'>

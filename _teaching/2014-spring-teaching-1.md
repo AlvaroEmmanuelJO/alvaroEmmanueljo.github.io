@@ -11,12 +11,4 @@ location: "Guadalajara, Mexico"
  A social project which incorporates people with intellectual disabilities and/or autism into activities of daily living, through tasks in which they develop their social, cultural, sports, artistic and affective skills.
 
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<img src='/images/Descubre_y_aprende.jpg'>
