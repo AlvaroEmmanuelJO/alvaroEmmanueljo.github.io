@@ -20,7 +20,7 @@ main:
     
   #- title: "Guide"
   # url: /markdown/
-- title: "Social Service"
+  - title: "Social Service"
     url:  /teaching/
 
   #- title: "FREELANCE"
