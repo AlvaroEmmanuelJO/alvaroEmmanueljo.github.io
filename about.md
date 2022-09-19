@@ -17,8 +17,7 @@ I consider my self as a <b>creative person and passionate</b> about the developm
 
 During my time at <b>ITESM</b>, I had the opportunity to participate in multiple activities and projects. Im be part of the International representative <b>Robotics team</b> <i>Robotec</i> of my University in December 2019. We are an inter-disciplinary robotics team participating in <b>International</b> competitions. I am also working on research projects such as the development of a rescue Robot with the vision of participating in the RoboCup 2022.
 I had the pleasure to <b>Founded</b> and be the <b>Vice-president</b> of the E-Sport Collague Team <i>T-Games</i> where with the support of my team we carry out National video game tournaments and events
-Holaaaaaaaaaaaaaaaaaaaaaaaaaaaadddsdsfdfd
-</b>.
+
  </p>
  
 
