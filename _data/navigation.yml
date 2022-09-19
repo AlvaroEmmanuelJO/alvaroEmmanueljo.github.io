@@ -7,7 +7,6 @@ main:
     url: /talks/    
 
  # - title: "Teaching"
- #   url: /teaching/    
     
   - title: "Personal Projects"
     url: /portfolio/
@@ -21,8 +20,13 @@ main:
   #- title: "Guide"
   # url: /markdown/
 
-  - title: "FREELANCE"
+   - title: "Social Service"
     url:  /teaching/
+
+  #- title: "FREELANCE"
+   # url:  /teaching/ #Make a new folder for url: /Freelance/ for example
+
+    
     
   #- title: "Guide"
   # url: /markdown/
