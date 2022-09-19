@@ -3,8 +3,7 @@ title: "TECHO"
 collection: "Social Service"
 type: "Tec de Monterrey"
 permalink: /teaching/2022-spring-teaching-2
-venue: "2019"
-date: 2019-09-00
+venue: "September 2019"
 location: "Guadalajara, Mexico"
 ---
 

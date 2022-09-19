@@ -4,7 +4,6 @@ collection: "Social Service"
 type: "Tec de Monterrey"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Summer 2019"
-date: 2019-08-08
 location: "Guadalajara, Mexico"
 ---
 
