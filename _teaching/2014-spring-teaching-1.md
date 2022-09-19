@@ -3,7 +3,7 @@ title: "Descubre & Aprende   "
 collection: "Social Service"
 type: "Tec de Monterrey"
 permalink: /teaching/2022-spring-teaching-1
-venue: "Summer 2019"
+venue: "Summer"
 date: 2019-07-01
 location: "Guadalajara, Mexico"
 ---
