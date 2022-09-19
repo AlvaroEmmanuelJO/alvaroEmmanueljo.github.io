@@ -4,6 +4,7 @@ collection: "Social Service"
 type: "Tec de Monterrey"
 permalink: /teaching/2022-spring-teaching-2
 venue: "September 2019"
+date: 2019-09-01
 location: "Guadalajara, Mexico"
 ---
 
@@ -11,4 +12,4 @@ Urgency moves us, and to overcome the situation of poverty, we develop projects 
 
 Design areas for a vulnerable situation families.
 
-<img src='/images/TECHO.gif'>
+<div align="center"><img src='/images/TECHO.gif'></div>
