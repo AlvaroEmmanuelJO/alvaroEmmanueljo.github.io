@@ -16,7 +16,12 @@ Certifications
   * Mechanical Design Professional
   <br>
     [See credential](https://drive.google.com/file/d/1PgZrge3byGw2g-A1USvNu4q7cAeoRqRX/view?usp=sharing)
-
+    
+* SCRUMstudy, 2022
+  * Scrum Fundamentals Certified (SFC™)
+  <br>
+    [See credential](https://www.scrumstudy.com/certification/verify?type=SFC&number=943489)
+    
 * Dassault Systèmes, 2020
   * Mechanical Design Associate
   <br>
